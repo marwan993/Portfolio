@@ -1,1 +1,1 @@
-A sample portfolio website.
+A demo portfolio website.
