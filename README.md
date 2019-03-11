@@ -1,1 +1,1 @@
-A demo portfolio website.
+permalink: /index.html
